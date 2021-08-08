@@ -34,7 +34,7 @@ used to apply the changes required to reach the desired state of the configurati
 
 **3** In Azure Portal Cloud Shell, create a new directory and then change to it. Clone the sample app repository by  
 
-`git clone https://github.com/SaumyaG29/multicontainerwordpress`  to the new directory and then change to “multicontainerwordpress” directory. 
+`git clone https://github.com/SHIVAM-0704/Celebal-Project-Docker-`  to the new directory and then change to “multicontainerwordpress-master” directory. 
 
 
  
